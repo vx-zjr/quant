@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 临时文件
+*.tmp
+*.log
+temp/
+test/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 大文件（可选排除）
+# *.csv
+# *.parquet
